@@ -19,5 +19,7 @@ window.OPENSHIFT_CONSTANTS.SAAS_OFFERINGS = [{
 }];
 
 
+$("#openshift-logo").after('<a class="navbar-brand" id="openshift-logo-title" href="./catalog"><div id="title" style="color: #0066FF;padding-top: 5px;">Nuxeo Openshift Console</div></a>');
+
 
 }());
